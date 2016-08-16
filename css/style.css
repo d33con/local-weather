@@ -21,6 +21,10 @@ button {
   font-size: 20px;
 }
 
+button:hover {
+  opacity: 1.0;
+}
+
 img {
   width: 80px;
   height: auto;
